@@ -1,0 +1,9 @@
+# Core web framework
+Flask==3.1.2
+
+# ORM + DB adapter
+SQLAlchemy==2.0.36
+Flask-SQLAlchemy==3.1.1
+
+# Desktop window (Edge WebView2 on Windows)
+pywebview==5.3.2
